@@ -1,31 +1,18 @@
 ﻿# cli-based-Personal-Library-Manager-using-python
-# Personal Library Manager
 
-A simple command-line application to manage a personal library of books. This tool allows you to store, organize, and track your reading progress effortlessly.
+A simple command-line application to manage a personal library of books. This tool allows users to manage their book collection by adding, removing, and searching for books. Each book is stored as a dictionary with details like title, author, publication year, genre, and read status. The program includes a menu system, basic statistics, and optional file handling for saving and loading the library.
 
 ---
 
 ## Features
 
-The application supports the following features:
-
-- **Add New Books to the Library:**  
-  Add a new book by providing details such as title, author, publication year, genre, and reading status.
-
-- **Delete Books from the Library:**  
-  Remove a book from your collection by specifying its title.
-
-- **Search for Books in the Library:**  
-  Search for books by title or author name.
-
-- **Update Book Information:**  
-  Modify the details of an existing book (e.g., title, author, year, genre, or reading status).
-
-- **Show All Books in the Library:**  
-  Display a list of all books in your collection, including their details and reading status.
-
-- **Show Reading Progress:**  
-  View statistics about your reading progress, including the total number of books and the percentage of books you've completed.
+- **Add Books:** Add a new book to the library by providing details such as title, author, publication year, genre, and read status.
+- **Remove Books:** Delete a book from the library by specifying its title.
+- **Search Books:** Search for books by title or author.
+- **Update Books:** Modify the details of an existing book.
+- **View All Books:** Display a list of all books in the library with their details.
+- **Reading Progress:** View basic statistics about your reading progress, such as the total number of books and the percentage of books you've read.
+- **File Handling:** Save and load the library to/from a JSON file for persistent storage.
 
 ---
 
