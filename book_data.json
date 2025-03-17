@@ -1,0 +1,16 @@
+[
+    {
+        "title": "book1",
+        "author": "Areesha",
+        "year": "2024",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "book2",
+        "author": "areesha khan",
+        "year": "2021",
+        "genre": "non fiction",
+        "read": false
+    }
+]
